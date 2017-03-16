@@ -117,13 +117,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="clashofclans_base_already_claimed" xml:space="preserve">
-    <value>That base is already claimed or destroyed.</value>
+    <value>Esa base ya está reclamada o destruida.</value>
   </data>
   <data name="clashofclans_base_already_destroyed" xml:space="preserve">
-    <value>That base is already destroyed.</value>
+    <value>Esa base ya está destruida.</value>
   </data>
   <data name="clashofclans_base_already_unclaimed" xml:space="preserve">
-    <value>That base is not claimed.</value>
+    <value>Esa base no está reclamada.</value>
   </data>
   <data name="clashofclans_base_destroyed" xml:space="preserve">
     <value>**DESTROYED** base #{0} in a war against {1}</value>
@@ -135,70 +135,70 @@
     <value>{0} claimed a base #{1} in a war against {2}</value>
   </data>
   <data name="clashofclans_claimed_other" xml:space="preserve">
-    <value>@{0} You already claimed base #{1}. You can&apos;t claim a new one.</value>
+    <value>@{0} Ya has reclamado la base #{1}. No puedes reclamar una nueva.</value>
   </data>
   <data name="clashofclans_claim_expired" xml:space="preserve">
     <value>Claim from @{0} in a war against {1} has expired.</value>
   </data>
   <data name="clashofclans_enemy" xml:space="preserve">
-    <value>Enemy</value>
+    <value>Enemigo</value>
   </data>
   <data name="clashofclans_info_about_war" xml:space="preserve">
-    <value>Info about war against {0}</value>
+    <value>Info. de la guerra contra {0}</value>
   </data>
   <data name="clashofclans_invalid_base_number" xml:space="preserve">
-    <value>Invalid base number.</value>
+    <value>Numero de base invalido.</value>
   </data>
   <data name="clashofclans_invalid_size" xml:space="preserve">
-    <value>Not a valid war size.</value>
+    <value>No es un tamaño de guerra valido.</value>
   </data>
   <data name="clashofclans_list_active_wars" xml:space="preserve">
-    <value>List of active wars</value>
+    <value>Lista de guerras activas</value>
   </data>
   <data name="clashofclans_not_claimed" xml:space="preserve">
-    <value>not claimed</value>
+    <value>no reclamada</value>
   </data>
   <data name="clashofclans_not_partic" xml:space="preserve">
-    <value>You are not participating in that war.</value>
+    <value>No estas participando en esta guerra.</value>
   </data>
   <data name="clashofclans_not_partic_or_destroyed" xml:space="preserve">
-    <value>@{0} You are either not participating in that war, or that base is already destroyed.</value>
+    <value>@{0} No estas participando en esa guerra, o esa base ya ha sido destruida.</value>
   </data>
   <data name="clashofclans_no_active_wars" xml:space="preserve">
-    <value>No active war.</value>
+    <value>No hay guerras activas.</value>
   </data>
   <data name="clashofclans_size" xml:space="preserve">
-    <value>Size</value>
+    <value>Tamaño</value>
   </data>
   <data name="clashofclans_war_already_started" xml:space="preserve">
-    <value>War against {0} has already started.</value>
+    <value>La guerra contra {0} ya ha comenzado.</value>
   </data>
   <data name="clashofclans_war_created" xml:space="preserve">
-    <value>War against {0} created.</value>
+    <value>Guerra contra {0} creada.</value>
   </data>
   <data name="clashofclans_war_ended" xml:space="preserve">
-    <value>War against {0} ended.</value>
+    <value>Guerra contra {0} terminada.</value>
   </data>
   <data name="clashofclans_war_not_exist" xml:space="preserve">
-    <value>That war does not exist.</value>
+    <value>Esa guerra no existe.</value>
   </data>
   <data name="clashofclans_war_started" xml:space="preserve">
-    <value>War against {0} started!</value>
+    <value>¡Guerra contra {0} iniciada!</value>
   </data>
   <data name="customreactions_all_stats_cleared" xml:space="preserve">
     <value>All custom reaction stats cleared.</value>
   </data>
   <data name="customreactions_deleted" xml:space="preserve">
-    <value>Custom Reaction deleted</value>
+    <value>Reaccion personalizada eliminada.</value>
   </data>
   <data name="customreactions_insuff_perms" xml:space="preserve">
     <value>Insufficient permissions. Requires Bot ownership for global custom reactions, and Administrator for server custom reactions.</value>
   </data>
   <data name="customreactions_list_all" xml:space="preserve">
-    <value>List of all custom reactions</value>
+    <value>Lista de reacciones personalizadas</value>
   </data>
   <data name="customreactions_name" xml:space="preserve">
-    <value>Custom Reactions</value>
+    <value>Reacciones personalizadas</value>
   </data>
   <data name="customreactions_new_cust_react" xml:space="preserve">
     <value>New Custom Reaction</value>
